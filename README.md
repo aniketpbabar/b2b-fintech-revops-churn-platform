@@ -21,7 +21,8 @@ An end-to-end B2B payments analytics platform designed to predict merchant churn
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]<img width="937" height="541" alt="Screenshot 2026-09-14 164205" src="https://github.com/user-attachments/assets/44d16c65-e162-4cb8-b771-18e10d3ccfad" />
+
 
 ---
 
